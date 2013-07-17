@@ -23,10 +23,10 @@ else
 endif
 
 " Disable arrow keys
-nnoremap <left> <nop>
-nnoremap <right> <nop>
-nnoremap <up> <nop>
-nnoremap <down> <nop>
+" nnoremap <left> <nop>
+" nnoremap <right> <nop>
+" nnoremap <up> <nop>
+" nnoremap <down> <nop>
 
 
 " Tab behavior
