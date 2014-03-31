@@ -22,13 +22,6 @@ else
   au BufWinEnter * let w:m2=matchadd('ErrorMsg', '\%>100v.\+', -1)
 endif
 
-" Disable arrow keys
-" nnoremap <left> <nop>
-" nnoremap <right> <nop>
-" nnoremap <up> <nop>
-" nnoremap <down> <nop>
-
-
 " Tab behavior
 set shiftwidth=2                   " Width of autoindent
 set expandtab                      " Use soft tabs
